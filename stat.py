@@ -1,6 +1,7 @@
 ########################
 #  TEXT PREPROCESSING  #
 ########################
+
 import re
 import string
 from nltk.corpus import stopwords
@@ -60,6 +61,5 @@ for item in wordcount.items():
     print("{}\t{}".format(*item))
 
 df = pd.DataFrame.from_dict(wordcount, orient='index', columns=['Count']).reset_index()
-print(df.columns)
 df = df.sort_values(by='Count', ascending=False)
 df.to_csv("data/stat/wordcount.csv")
