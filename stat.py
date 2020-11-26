@@ -7,7 +7,9 @@ import string
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import nltk
+from pathlib import Path
 nltk.download('punkt')
+Path('data/stat').mkdir(exist_ok=True, parents=True)
 
 file_content=open("data/aggre/aggre.txt").read()
 
