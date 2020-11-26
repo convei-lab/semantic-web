@@ -6,3 +6,6 @@ matplotlib
 pandas
 nltk
 googletrans
+rdflib
+cython
+Owlready2

@@ -37,12 +37,16 @@ cp -r ./data/raw/* ./data/anno
 python anno2xls.py
 ```
 
-6. Create an OWL with Protege and place it under ./data/ontology. You can  use a [WebProtege](https://webprotege.stanford.edu/) to collaborate with your team.
+6. Create OWL object classes & properties (T-Box) with Protege and place it under ./data/ontology. You can  use a [WebProtege](https://webprotege.stanford.edu/) to collaborate with your team.
+
+    * ./data/ontology/root-ontology.owl
+
+7. Populate individuls.
 ```
-./data/ontology/root-ontology.owl
+python populate.py
 ```
-7. Save root-ontology.owl as a turtle syntax.
-```
-./data/ontology/root-ontology.ttl
-```
-8. Run Apache Jena Fuseki.
+8. Save root-ontology.owl as a turtle syntax.
+
+    * ./data/ontology/root-ontology.ttl
+
+9. Run Apache Jena Fuseki.
