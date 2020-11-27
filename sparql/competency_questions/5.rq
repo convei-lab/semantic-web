@@ -1,4 +1,4 @@
-#How much should a xx-month-old weight measure?
+#How much sleep does A xx-Month-Old Need?
 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -13,14 +13,7 @@ WHERE {
    {?class (rdfs:subClassOf)
    [
           a owl:Restriction ;
-          owl:onProperty lhi:hasBoyWeight ;
+          owl:onProperty lhi:needSleepDuration ;
           (owl:hasValue) ?value;
                        ] .}
-  UNION {?class (rdfs:subClassOf)
-   [
-          a owl:Restriction ;
-          owl:onProperty lhi:hasGirlWeight ;
-          (owl:hasValue) ?value;
-   ] .
-  }
 }
