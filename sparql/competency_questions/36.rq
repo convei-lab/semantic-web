@@ -1,0 +1,18 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX lhi: <http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?tip WHERE { 
+  ?stage rdfs:subClassOf* lhi:32MonthOld .
+  ?tantrum rdfs:subClassOf* lhi:Tantrum .
+  ?stage (rdfs:subClassOf)
+     [
+            a owl:Restriction ;
+            owl:onProperty lhi:behave ;
+            (owl:someValuesFrom) ?tantrum;
+     ] .
+  ?tip lhi:help ?tantrum
+  ?individual rdf:type ?speech
+}

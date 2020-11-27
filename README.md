@@ -50,4 +50,4 @@ python populate.py
 
     * ./data/ontology/root-ontology.ttl
 
-9. Run Apache Jena Fuseki.
+9. Run Apache Jena Fuseki and write some SPARQL query you need. (Results in sparql/competency_questions)
