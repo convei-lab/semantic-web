@@ -1,5 +1,5 @@
 # semantic-web
-This repo serves a pipelined tutorial that aims to build up a knowledge base from text files that are web-crawled with Protege and Apache Jena.
+This repo serves a pipelined tutorial that build up a knowledge base from web-crawled text using Protege and Apache Jena. 
 
 ## Prerequisite
 1. [Protege](https://protege.stanford.edu/)
