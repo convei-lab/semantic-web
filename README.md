@@ -42,7 +42,7 @@ python anno2xls.py
 
     * ./data/ontology/root-ontology.owl
 
-7. Populate individuls. (Results in ./data/ontology/basic.txt. Add the result text to root-ontology.owl.)
+7. Populate individuls. (Results in ./data/ontology/basic.txt. Copy and paste the generated text to root-ontology.owl.)
 ```
 python populate.py
 ```
