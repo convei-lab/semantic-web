@@ -1,0 +1,17 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX lhi: <http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?class WHERE { 
+  ?class rdfs:subClassOf* lhi:NutritionalSupplement .
+  # sublclass restriciton
+  ?stage rdfs:subClassOf* lhi:32MonthOld .  # TODO change this into my child
+  ?stage (rdfs:subClassOf)
+     [
+            a owl:Restriction ;
+            owl:onProperty lhi:eat ;
+            (owl:someValuesFrom) ?class;
+     ] .
+}
