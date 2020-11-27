@@ -1,0 +1,1662 @@
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#activity">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Activity"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#behavior">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Behavior"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cause">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Cause"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#checklist">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Checklist"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#five_senses">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FiveSenses"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#doing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Doing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#gender">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Gender"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#tips">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Tips"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#kid">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Kid"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#aging_stage">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AgingStage"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#person">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Person"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#accurate_hearing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AccurateHearing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#auditory_sense">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AuditorySense"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#acting_differently_to_environment">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ActingDifferentlyToEnvironment"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#development">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Development"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#adult">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Adult"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#advice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Advice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#apple">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Apple"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#fruit">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Fruit"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#asking_everything">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AskingEverything"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#social_behavior">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SocialBehavior"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#attention_hogs">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AttentionHogs"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#autism">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Autism"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#illness">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Illness"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#avoiding_struggle">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AvoidingStruggle"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#aware_of_being_away">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AwareOfBeingAway"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#separation_axiety">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAxiety"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#babbling">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Babbling"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speech">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Speech"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#baby">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Baby"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#0_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#0MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#1_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#1MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#10_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#10MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#11_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#11MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#12_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#12MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#13_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#13MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#14_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#14MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#15_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#15MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#16_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#16MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#17_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#17MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#18_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#18MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#2_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#2MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#3_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#3MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#4_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#4MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#5_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#5MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#6_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#6MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#7_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#7MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#8_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#8MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#9_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#9MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#toddler">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Toddler"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#back_and_forth">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BackAndForth"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#rolling">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Rolling"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#bad_manner">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BadManner"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#balancing_meal">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BalancingMeal"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#banana">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Banana"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#bath">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Bath"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#refusing_bedtime">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RefusingBedtime"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sleep_regression">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SleepRegression"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#bean">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Bean"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#grain">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Grain"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#bed_time_story">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BedTimeStory"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#bedtime_call">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BedtimeCall"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#night_terror">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#NightTerror"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#beef">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Beef"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#protein">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Protein"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_bored">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingBored"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#tantrum">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Tantrum"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_frustrated">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingFrustrated"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_hungry">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingHungry"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_sick">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingSick"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_tired">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingTired"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#better_childproofing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BetterChildproofing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#better_moving_and_focusing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BetterMovingAndFocusing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#vision">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Vision"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#biological_tendency">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BiologicalTendency"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#biting">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Biting"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#violent_behavior">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ViolentBehavior"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#blowing_bubbles">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BlowingBubbles"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#blurry_sight">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BlurrySight"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#bossiness">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Bossiness"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#bouncing_ball">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BouncingBall"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_ball">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingBall"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Boy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#male">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Male"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Girl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#brave">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Brave"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#breast_feeding">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BreastFeeding"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#eating">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Eating"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#breast_milk">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BreastMilk"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#diary">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Diary"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#breastfeed">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Breastfeed"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#food">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Food"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#bringing_their_hand_to_theri_mouth">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BringingTheirHandToTheriMouth"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#broccoli">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Broccoli"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#grean_leafy_veggie">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GreanLeafyVeggie"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#building_block">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BuildingBlock"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#motor_skill">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MotorSkill"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#calcium_supplement">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CalciumSupplement"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#nutritional_supplement">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#NutritionalSupplement"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#caring_baby_doll">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CaringBabyDoll"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#carrot">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Carrot"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#vegetable">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Vegetable"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#celery">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Celery"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cereal">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Cereal"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#check_autism">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CheckAutism"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cheese">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Cheese"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#chicken">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Chicken"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#childproofing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Childproofing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#chores">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Chores"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#claming_child">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ClamingChild"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#nightmare">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Nightmare"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#waking_up_screaming">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WakingUpScreaming"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#climbing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Climbing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#climbing_out_of_the_crib">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ClimbingOutOfTheCrib"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sleep_behavior">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SleepBehavior"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cognitive_behavior">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CognitiveBehavior"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#coloring_with_crayons">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ColoringWithCrayons"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#comforted_by_parents_touch">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ComfortedByParentsTouch"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#touch">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Touch"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#communicative">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Communicative"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#concentration">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Concentration"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#conditional_separation_anxiety">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ConditionalSeparationAnxiety"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#conditional_tantrum">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ConditionalTantrum"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#confident">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Confident"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#constipation">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Constipation"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cooked_veggie">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CookedVeggie"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cough_into_crook">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CoughIntoCrook"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#coughing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Coughing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#crawling">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Crawling"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#crawling_well">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CrawlingWell"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#crib_tent">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CribTent"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#crib_to_bed">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CribToBed"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cutting_into_tiny_piece">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#CuttingIntoTinyPiece"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#prone_to_chocking">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ProneToChocking"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#dancing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Dancing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#declining_nap_time">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DecliningNapTime"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#declining_tantrum">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DecliningTantrum"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#defiance">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Defiance"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#defiant">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Defiant"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#developed_smelling">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DevelopedSmelling"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#smell">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Smell"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#developemental_leap">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DevelopementalLeap"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#diarrhea">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Diarrhea"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#discouraging">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Discouraging"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#disobeying">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Disobeying"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#distinguishing_different_color">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DistinguishingDifferentColor"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#distinguishing_gender_of_voice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DistinguishingGenderOfVoice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#distract_at_doctors">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DistractAtDoctors"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#doing_latch_board">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DoingLatchBoard"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#doing_puzzle">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DoingPuzzle"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#drawing_coloring">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DrawingColoring"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#low_fat_diary">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LowFatDiary"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#drawing_crayon">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DrawingCrayon"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#drawing_paint">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DrawingPaint"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#drawing_shape">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DrawingShape"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#dressing_independently">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DressingIndependently"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#e_t_c">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ETC"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#eating_independently">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#EatingIndependently"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#emotional_behavior">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#EmotionalBehavior"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#encouraging_child_to_sit_on_potty_seat">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#EncouragingChildToSitOnPottySeat"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#potty_training">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PottyTraining"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#energetic">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Energetic"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#eplore_new_food">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#EploreNewFood"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#picky_eating">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PickyEating"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#falling_back_to_sleep">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FallingBackToSleep"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#waking_up_too_often">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WakingUpTooOften"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#fast_learner">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FastLearner"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#fearing_stranger">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FearingStranger"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#feeling_object_with_mouth">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FeelingObjectWithMouth"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#feeling_objects_with_mouth">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FeelingObjectsWithMouth"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#female">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Female"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#fever">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Fever"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#fiber_gummy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FiberGummy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#first_real_bath">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FirstRealBath"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#fluoride_toothpaste">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FluorideToothpaste"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#focusing_on_objects_about8-12_inches">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FocusingOnObjectsAbout8-12Inches"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#focusing_on_things_within_their_foot">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FocusingOnThingsWithinTheirFoot"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#following_instruction">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FollowingInstruction"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#social_milestone">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SocialMilestone"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#following_moving_objects">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FollowingMovingObjects"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#formula_milk">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FormulaMilk"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#friendship">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Friendship"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#from_tummy_to_back">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FromTummyToBack"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#fruit_snack">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FruitSnack"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#snack">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Snack"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#frustrating">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Frustrating"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#fun_loving">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#FunLoving"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#getting_ready_to_crawl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GettingReadyToCrawl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#giggling">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Giggling"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#giving_big_kid_job">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GivingBigKidJob"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#giving_menu_choice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GivingMenuChoice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_grocery_shopping">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingGroceryShopping"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#outing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Outing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_to_book_space">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingToBookSpace"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_to_daycare">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingToDaycare"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_to_kids_gym">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingToKidsGym"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_to_pre_school">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingToPreSchool"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_to_sightseeing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingToSightseeing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_to_the_park">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingToThePark"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_to_the_pet_store">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingToThePetStore"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#going_to_the_train_station">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoingToTheTrainStation"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#good_hygiene">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GoodHygiene"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#grape">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Grape"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#grasping_things">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#GraspingThings"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#hand_skills">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#HandSkills"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#hand_washing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#HandWashing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#hygiene_training">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#HygieneTraining"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#head_shoulder_knee_toe">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#HeadShoulderKneeToe"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#hearing_disease">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#HearingDisease"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#heart_disease">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#HeartDisease"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#hitting">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Hitting"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#identification">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Identification"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#understanding">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Understanding"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#imaginary_friend">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ImaginaryFriend"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#improving_depth_perception">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ImprovingDepthPerception"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#improving_distance_vision">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ImprovingDistanceVision"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#inappropriate_nap">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#InappropriateNap"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#independence">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Independence"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#independent">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Independent"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#individual_personality">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#IndividualPersonality"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#interested_in_parents_saying">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#InterestedInParentsSaying"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#interested_in_touching_different_textures_and_shapes">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#InterestedInTouchingDifferentTexturesAndShapes"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#introducing_potty">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#IntroducingPotty"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#iron_supplement">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#IronSupplement"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#irregular_picky_eating">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#IrregularPickyEating"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#jerking_and_quivering_arms">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#JerkingAndQuiveringArms"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#juice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Juice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#jumping">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Jumping"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#keening_reflexes">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#KeeningReflexes"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#keep_leading_back_to_child_bed">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#KeepLeadingBackToChildBed"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#keep_offering_food_options">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#KeepOfferingFoodOptions"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#refusing_food">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RefusingFood"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#keep_quote">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#KeepQuote"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#keeping_distant">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#KeepingDistant"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#keeping_hands_tight_in_fists">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#KeepingHandsTightInFists"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#kicking_ball">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#KickingBall"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#knowing_what_to_do_with_hands">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#KnowingWhatToDoWithHands"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#lacing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Lacing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#langage_heavy_learner">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LangageHeavyLearner"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#laughing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Laughing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#leading_by_example">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LeadingByExample"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#lifting_their_head_and_shoulder">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LiftingTheirHeadAndShoulder"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#limiting_t_v_time">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LimitingTVTime"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#listening_and_imitating_parents_chat">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ListeningAndImitatingParentsChat"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#looking_and_listening_at_the_sametime">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LookingAndListeningAtTheSametime"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#looking_at_things_in_distance_and_close_things">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LookingAtThingsInDistanceAndCloseThings"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#looking_things_closely">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LookingThingsClosely"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#loving_repetition">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LovingRepetition"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#loving_soft_things">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#LovingSoftThings"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#lying">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Lying"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#making_cardboard_house">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MakingCardboardHouse"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#making_collage">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MakingCollage"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#making_easy_art">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MakingEasyArt"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#making_eye_contact">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MakingEyeContact"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#making_eyecontact">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MakingEyecontact"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#making_room_dark_and_quiet">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MakingRoomDarkAndQuiet"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#making_some_sounds_like_oh">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MakingSomeSoundsLikeOh"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#milk">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Milk"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#mimicking">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Mimicking"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#mixed_juice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MixedJuice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#moving_freely">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#MovingFreely"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#no_late_nap">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#NoLateNap"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#no_long_lecture">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#NoLongLecture"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#nose_picking">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#NosePicking"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#not_force_eating">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#NotForceEating"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#not_responding_right_away">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#NotRespondingRightAway"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#not_yet">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#NotYet"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#occasional_negative_emotion">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#OccasionalNegativeEmotion"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#one-_step_commands">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#One-StepCommands"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#opening_and_closing_hands">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#OpeningAndClosingHands"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#oreo">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Oreo"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#parallel_playing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ParallelPlaying"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#passing_ball">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PassingBall"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#passing_objects_from_one_hand_to_the_other">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PassingObjectsFromOneHandToTheOther"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#pasta">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Pasta"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#physically_active">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PhysicallyActive"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#picking_things">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PickingThings"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#picking_up">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PickingUp"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#plan_birthday_party">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlanBirthdayParty"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_block">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingBlock"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_board_game">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingBoardGame"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_catch">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingCatch"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_clay">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingClay"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_colorful_toy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingColorfulToy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_counting_game">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingCountingGame"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_dates">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingDates"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_difficult_block">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingDifficultBlock"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_hide_and_seek">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingHideAndSeek"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_independently">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingIndependently"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_music">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingMusic"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_musical_instrument">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingMusicalInstrument"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_patty-cake">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingPatty-cake"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_peek-a-boo">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingPeek-a-boo"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_pretend">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingPretend"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_pulling_toy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingPullingToy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_puppet">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingPuppet"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_push_and_pull_toy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingPushAndPullToy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_pushing_toy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingPushingToy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_soccer">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingSoccer"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_tag">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingTag"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#playing_texture_toy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlayingTextureToy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#plenty_daytime_activity">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlentyDaytimeActivity"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#plyaing_pop_up_toy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PlyaingPopUpToy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#pointing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Pointing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#potty_training_ready">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PottyTrainingReady"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#practicing_fine_motor_skill">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PracticingFineMotorSkill"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#praise_sharing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PraiseSharing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#praising_positive_behavior">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PraisingPositiveBehavior"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#preparing_the_meal">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PreparingTheMeal"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#pretending_objects">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PretendingObjects"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#prone_to_stress">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ProneToStress"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#prune">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Prune"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#pulling_pants">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PullingPants"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#pushing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Pushing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#pushing_toy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PushingToy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#pushing_up_to_their_elbows">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#PushingUpToTheirElbows"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#raisin">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Raisin"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#reading_book">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ReadingBook"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#reassuring_comming_back">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ReassuringCommingBack"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#reassuring_okay">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ReassuringOkay"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#recognizing_familiar_faces_and_objects">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RecognizingFamiliarFacesAndObjects"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#recognizing_familiar_sounds">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RecognizingFamiliarSounds"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#recognizing_parents">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RecognizingParents"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#recognizing_parents_voice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RecognizingParentsVoice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#refusing_nap">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RefusingNap"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#repeating_same_consonants">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RepeatingSameConsonants"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#repetition">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Repetition"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#resistent">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Resistent"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#responding_quickly_to_noise">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RespondingQuicklyToNoise"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#responding_to_parents">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RespondingToParents"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#rhyming">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Rhyming"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#rice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Rice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#riding_toys">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RidingToys"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#riding_tricycle">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RidingTricycle"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#rolling_ball">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RollingBall"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#rolling_freely">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RollingFreely"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#rolling_the_ball">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RollingTheBall"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#routined_sleep">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RoutinedSleep"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#rude">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Rude"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#running">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Running"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#running_away">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#RunningAway"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sandwich">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Sandwich"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#saulty_snack">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SaultySnack"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#saying10-20_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Saying10-20Words"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#saying_at_least2-3_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SayingAtLeast2-3Words"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#saying_at_leat1_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SayingAtLeat1Words"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#saying_mom_and_dad">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SayingMomAndDad"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#saying_no">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SayingNo"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#saying_two-word_phrases">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SayingTwo-wordPhrases"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#seeing_clearly">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeeingClearly"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#seeing_everything_in_full_color">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeeingEverythingInFullColor"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#seeing_pediatrician">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeeingPediatrician"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#seeing_well_across_the_room">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeeingWellAcrossTheRoom"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#seeking_approval">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeekingApproval"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#seeking_attention">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeekingAttention"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#self_centered">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SelfCentered"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sense_of_humor">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SenseOfHumor"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sexual_curiosity">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SexualCuriosity"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#shape_sorting">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ShapeSorting"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sorting">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Sorting"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#short_attention_span">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ShortAttentionSpan"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#showing_off">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ShowingOff"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#showing_readiness_of_potty_training">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ShowingReadinessOfPottyTraining"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#shyness">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Shyness"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#simple_chores">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SimpleChores"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#singing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Singing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sitting">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Sitting"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sitting_long_period_time">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SittingLongPeriodTime"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sitting_up_by_themselves">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SittingUpByThemselves"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sitting_with_help">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SittingWithHelp"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sitting_without_any_support">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SittingWithoutAnySupport"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#skim_milk">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SkimMilk"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sleeping_without_cuddling">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SleepingWithoutCuddling"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#smiling_to_parents_voice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SmilingToParentsVoice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#some_potty_training_mastered">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SomePottyTrainingMastered"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#some_potty_training_ready">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SomePottyTrainingReady"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#soothing_themselves_by_sucking_their_fists">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SoothingThemselvesBySuckingTheirFists"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking100_to250_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Speaking100To250Words"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking10_to20_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Speaking10To20Words"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking20_to50_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Speaking20To50Words"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking250_to450_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Speaking250To450Words"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking50or100_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Speaking50or100Words"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking_four_word_sentence">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SpeakingFourWordSentence"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking_in_sentences">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SpeakingInSentences"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking_phrase">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SpeakingPhrase"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking_three_word_sentence">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SpeakingThreeWordSentence"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking_two_phrases">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SpeakingTwoPhrases"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speaking_two_word_sentence">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SpeakingTwoWordSentence"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#speech_delay">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SpeechDelay"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#spinach">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Spinach"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#squating">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Squating"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#stacking_blocks">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#StackingBlocks"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#standing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Standing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#standing_by_themselves">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#StandingByThemselves"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#standing_few_moments_by_themselves">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#StandingFewMomentsByThemselves"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#standing_one_foot">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#StandingOneFoot"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#standing_using_furniture">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#StandingUsingFurniture"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#standing_with_parents_help">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#StandingWithParentsHelp"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#starting_crawling">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#StartingCrawling"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#starting_teething">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#StartingTeething"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#teething">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Teething"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#steamed_veggie">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SteamedVeggie"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#stepping">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Stepping"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#stepping_one_foot">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SteppingOneFoot"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#stubborn">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Stubborn"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sufficient_sleep">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SufficientSleep"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#sugary_snack">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SugarySnack"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#suggesting_fact">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SuggestingFact"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#supplementing_with_vitamin_d">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SupplementingWithVitaminD"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#swaying_side-_to-_side">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SwayingSide-To-Side"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#swimming_class">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SwimmingClass"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#taking_a_few_steps_on_themselves">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TakingAFewStepsOnThemselves"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#walking">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Walking"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#talking_about_potty">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TalkingAboutPotty"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#teething_canines">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TeethingCanines"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#teething_cuspids">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TeethingCuspids"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#teething_first_molar">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TeethingFirstMolar"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#teething_lower_cuspids">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TeethingLowerCuspids"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#teething_lower_second_molar">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TeethingLowerSecondMolar"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#teething_upper_second_molar">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TeethingUpperSecondMolar"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#telling_change">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TellingChange"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#telling_the_potty_time">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TellingThePottyTime"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#terrible_tantrum">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TerribleTantrum"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#thirty_month_medical_checkup">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ThirtyMonthMedicalCheckup"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#three_year_medical_checkup">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ThreeYearMedicalCheckup"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#throwing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Throwing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#throwing_ball">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ThrowingBall"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#19_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#19MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#20_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#20MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#21_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#21MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#22_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#22MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#23_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#23MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#24_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#24MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#25_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#25MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#26_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#26MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#27_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#27MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#28_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#28MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#29_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#29MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#30_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#30MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#31_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#31MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#32_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#32MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#33_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#33MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#34_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#34MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#35_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#35MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#36_month_old">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#36MonthOld"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#toddler_bed">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ToddlerBed"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#tofu">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Tofu"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#toothbrushing">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Toothbrushing"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#transition_trouble">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TransitionTrouble"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#truning_head_to_the_voice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TruningHeadToTheVoice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#turkey">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Turkey"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#turn_off_t_v_before_bed">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TurnOffTVBeforeBed"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#two_year_medical_checkup">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#TwoYearMedicalCheckup"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#understanding_range_of_sounds">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#UnderstandingRangeOfSounds"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#understanding_words">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#UnderstandingWords"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#unknown_environment">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#UnknownEnvironment"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#unresponsive_sleep">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#UnresponsiveSleep"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#using_potty">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#UsingPotty"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#using_spoon">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#UsingSpoon"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#varing_in_development">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#VaringInDevelopment"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#vitamin_supplement">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#VitaminSupplement"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#vomiting">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Vomiting"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#waiting_child_get_used_to">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WaitingChildGetUsedTo"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#waking_up_too_early">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WakingUpTooEarly"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#walking_around_using_furniture">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WalkingAroundUsingFurniture"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#walking_backwards">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WalkingBackwards"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#walking_game">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WalkingGame"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#walking_well">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WalkingWell"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#washing_hair_once_a_week">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WashingHairOnceAWeek"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#watching_objects_as_they_move">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WatchingObjectsAsTheyMove"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#water">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Water"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#weaning">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Weaning"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#well_feed_and_well_rest">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WellFeedAndWellRest"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#whining">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Whining"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#whining_and_other_annoying_things">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WhiningAndOtherAnnoyingThings"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#whole_milk">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WholeMilk"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#whole_wheat_pasta">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WholeWheatPasta"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#wondering_and_crossing_eye">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#WonderingAndCrossingEye"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#yogurt">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Yogurt"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#0_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#0MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#0_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#0MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#1_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#1MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#1_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#1MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#10_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#10MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#10_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#10MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#100_percent_juice">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#100PercentJuice"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#11_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#11MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#11_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#11MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#12_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#12MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#12_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#12MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#13_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#13MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#13_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#13MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#14_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#14MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#14_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#14MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#15_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#15MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#15_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#15MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#16_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#16MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#16_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#16MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#17_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#17MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#17_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#17MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#18_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#18MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#18_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#18MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#19_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#19MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#19_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#19MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#2_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#2MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#2_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#2MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#20_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#20MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#20_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#20MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#21_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#21MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#21_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#21MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#22_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#22MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#22_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#22MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#23_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#23MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#23_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#23MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#24_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#24MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#24_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#24MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#25_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#25MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#25_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#25MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#26_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#26MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#26_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#26MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#27_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#27MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#27_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#27MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#28_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#28MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#28_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#28MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#29_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#29MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#29_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#29MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#3_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#3MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#3_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#3MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#30_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#30MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#30_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#30MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#31_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#31MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#31_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#31MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#32_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#32MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#32_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#32MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#33_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#33MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#33_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#33MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#34_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#34MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#34_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#34MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#35_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#35MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#35_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#35MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#36_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#36MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#36_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#36MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#4_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#4MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#4_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#4MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#5_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#5MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#5_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#5MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#6_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#6MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#6_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#6MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#7_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#7MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#7_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#7MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#8_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#8MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#8_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#8MonthOldGirl"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#9_month_old_boy">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#9MonthOldBoy"/>
+	</owl:NamedIndividual>
+	<owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#9_month_old_girl">
+		<rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#9MonthOldGirl"/>
+	</owl:NamedIndividual>

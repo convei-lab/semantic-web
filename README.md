@@ -25,7 +25,7 @@ python stat.py
 ```
 3. Translate into Korean. (Optional. Results in ./data/translated)
 ```
-python translate.py #/data/translated
+python translate.py
 ```
 4. Annotate the dataset. Insert any class label of your interest as a text span wrapped with doulbe squared bracket, e.g. [[Fruit]]. Also, correct the chunking of paragraphs, incorrect newlines charaters, and etc.
 ```

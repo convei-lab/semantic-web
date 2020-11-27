@@ -4,14 +4,15 @@ PREFIX lhi: <http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontolog
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
-SELECT ?speech WHERE { 
-  ?stage rdfs:subClassOf* lhi:32MonthOld .
-  ?speechs rdfs:subClassOf* lhi:Speech .
+# TODO Change question to when is it possible for parents to go out with their baby for the first time
+
+SELECT (Min($stage) AS $month_old) WHERE {
+  ?activity rdfs:subClassOf* lhi:Outing .
+  ?stage rdfs:subClassOf* lhi:AgingStage .
   ?stage (rdfs:subClassOf)
      [
             a owl:Restriction ;
-            owl:onProperty lhi:do ;
-            (owl:someValuesFrom) ?speechs;
+            owl:onProperty lhi:act ;
+            (owl:someValuesFrom) ?activity ;
      ] .
-  ?speech rdf:type ?speechs
 }

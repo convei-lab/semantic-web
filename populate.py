@@ -19,7 +19,7 @@ onto = get_ontology("file://"+curpath+'/data/ontology/root-ontology.owl').load()
 if args.no_basic:
     filepath = 'data/ontology/basic.txt'
     with open(filepath, 'w') as f:
-        for n, c in tqdm(enumerate(list(onto.classes()))):
+        for n, c in enumerate(list(onto.classes())):
             print('c', c, type(c))
             # if c.subclasses():
             #     for c1 in list(c.subclasses()):
@@ -27,9 +27,11 @@ if args.no_basic:
             #     print()
             clsname = str(c).split('.')[1]
             insname = re.sub(r'(?<!^)(?=[A-Z])', '_', clsname).lower() # CameCase to snake_case
-            i = onto[clsname](insname)
-            print('i', i, type(i), i.name, i.iri)
-            print('is', onto[clsname].instances())
+            # print('clsname', clsname, 'insname', insname)
+            # i = onto[clsname](insname)
+            # print('i', i, type(i), i.name, i.iri)
+            # print('is', onto[clsname].instances())
+            # print()
             # a = c(clsname)
             # print('a', a, a.name, a.iri)
 

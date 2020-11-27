@@ -5,18 +5,21 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
 SELECT $tip ("help" AS $help) $tantrum WHERE { 
+  ?tantrums rdfs:subClassOf* lhi:Tantrum .
   ?stage rdfs:subClassOf* lhi:26MonthOld .
   ?stage (rdfs:subClassOf)
      [
             a owl:Restriction ;
             owl:onProperty lhi:behave ;
-            (owl:someValuesFrom) ?tantrum;
+            (owl:someValuesFrom) ?tantrums;
      ] .
-  ?tip rdfs:subClassOf* lhi:Tips .
-  ?tip (rdfs:subClassOf)
+  ?tips rdfs:subClassOf* lhi:Tips .
+  ?tips (rdfs:subClassOf)
      [
             a owl:Restriction ;
             owl:onProperty lhi:help ;
-            (owl:someValuesFrom) ?tantrum;
+            (owl:someValuesFrom) ?tantrums;
      ] .
+  ?tip rdf:type ?tips .
+  ?tantrum rdf:type ?tantrums
 }

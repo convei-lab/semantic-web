@@ -4,14 +4,12 @@ PREFIX lhi: <http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontolog
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
-SELECT ?speech WHERE { 
-  ?stage rdfs:subClassOf* lhi:32MonthOld .
-  ?speechs rdfs:subClassOf* lhi:Speech .
+ASK { 
+  ?stage rdfs:subClassOf* lhi:17MonthOld .  
   ?stage (rdfs:subClassOf)
      [
             a owl:Restriction ;
-            owl:onProperty lhi:do ;
-            (owl:someValuesFrom) ?speechs;
+            owl:onProperty lhi:eat ;
+            (owl:someValuesFrom) lhi:Water;
      ] .
-  ?speech rdf:type ?speechs
 }

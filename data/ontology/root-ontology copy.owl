@@ -65,6 +65,7 @@
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cause">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Cause"/>
+        <rdfs:label>cause</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -448,7 +449,7 @@
     <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AwareOfBeingAway -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#AwareOfBeingAway">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAnxiety"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAxiety"/>
     </owl:Class>
     
 
@@ -699,7 +700,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cause"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAnxiety"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAxiety"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label>BiologicalTendency</rdfs:label>
@@ -851,6 +852,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Cause">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Advice"/>
+        <rdfs:label>Cause</rdfs:label>
     </owl:Class>
     
 
@@ -998,7 +1000,7 @@
     <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ConditionalSeparationAnxiety -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ConditionalSeparationAnxiety">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAnxiety"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAxiety"/>
     </owl:Class>
     
 
@@ -1230,7 +1232,9 @@
 
     <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Doing -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Doing"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Doing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Sitting"/>
+    </owl:Class>
     
 
 
@@ -3211,9 +3215,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAnxiety -->
+    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAxiety -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAnxiety">
+    <owl:Class rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAxiety">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#EmotionalBehavior"/>
     </owl:Class>
     
@@ -4019,7 +4023,7 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cause"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAnxiety"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAxiety"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:label>UnknownEnvironment</rdfs:label>
@@ -15618,46 +15622,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_bored -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_bored">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingBored"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_frustrated -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_frustrated">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingFrustrated"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_hungry -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_hungry">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingHungry"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_sick -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_sick">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingSick"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_tired -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#being_tired">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BeingTired"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#better_childproofing -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#better_childproofing">
@@ -15670,14 +15634,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#better_moving_and_focusing">
         <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BetterMovingAndFocusing"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#biological_tendency -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#biological_tendency">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BiologicalTendency"/>
     </owl:NamedIndividual>
     
 
@@ -15806,14 +15762,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#carrot">
         <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Carrot"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cause -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#cause">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Cause"/>
     </owl:NamedIndividual>
     
 
@@ -16086,14 +16034,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#developed_smelling">
         <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DevelopedSmelling"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#developemental_leap -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#developemental_leap">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#DevelopementalLeap"/>
     </owl:NamedIndividual>
     
 
@@ -16718,14 +16658,6 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#improving_distance_vision">
         <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#ImprovingDistanceVision"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#inappropriate_nap -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#inappropriate_nap">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#InappropriateNap"/>
     </owl:NamedIndividual>
     
 
@@ -17981,7 +17913,7 @@
     <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#separation_axiety -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#separation_axiety">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAnxiety"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SeparationAxiety"/>
     </owl:NamedIndividual>
     
 
@@ -18434,14 +18366,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#suggesting_fact -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#suggesting_fact">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#SuggestingFact"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#supplementing_with_vitamin_d -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#supplementing_with_vitamin_d">
@@ -18714,14 +18638,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#unknown_environment -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#unknown_environment">
-        <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#UnknownEnvironment"/>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#unresponsive_sleep -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#unresponsive_sleep">
@@ -18886,6 +18802,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#water">
         <rdf:type rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Water"/>
+        <rdfs:label>water</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -19904,5 +19821,5 @@
 
 
 
-<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
 
