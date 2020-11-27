@@ -12,6 +12,7 @@ Check [this link](https://www.youtube.com/watch?reload=9&v=8F3TWJvgmBU) for inst
 
 0. Install python dependencies.
 ```
+pip install cython
 pip install -r requirements.txt
 ```
 1. Web scrap. (results in /data/raw)
