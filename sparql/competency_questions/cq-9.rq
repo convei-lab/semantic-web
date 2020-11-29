@@ -1,19 +1,21 @@
-# When should xx-month-baby start sleep training?
+#How much should My xx-Month-Old be eating?
 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX lhi: <http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX re: <http://www.w3.org/2000/10/swap/reason#>
 
-SELECT ?class ?value
+SELECT ?relations ?value
 WHERE { 
-  	?class rdfs:subClassOf* lhi:AgingStage .
-  	# sublclass restriciton
+  	?class rdfs:subClassOf* lhi:32MonthOld .
+
 	?class (rdfs:subClassOf)
      [
             a owl:Restriction ;
-            owl:onProperty lhi:do ;
-           (owl:someValuesFrom|owl:hasValue) lhi:SleepTraining;
+            owl:onProperty ?relations ;			
+           (owl:someValuesFrom|owl:hasValue) ?value;
      ] .
+	?relations rdfs:subPropertyOf* lhi:needAmount .                    
 }

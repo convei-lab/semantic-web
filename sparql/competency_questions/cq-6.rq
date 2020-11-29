@@ -6,15 +6,15 @@ PREFIX lhi: <http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontolog
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
-SELECT ?value 
+SELECT ?training 
 WHERE { 
-  	?class rdfs:subClassOf* lhi:16MonthOld .
-  	# sublclass restriciton
-	?class (rdfs:subClassOf)
-   [
-          a owl:Restriction ;
-          owl:onProperty lhi:do ;
-         (owl:someValuesFrom|owl:hasValue) ?value;
-   ] .
-  ?value rdfs:subClassOf lhi:PottyTraining .
+  ?stage rdfs:subClassOf* lhi:16MonthOld .
+  ?stage (rdfs:subClassOf)
+     [
+            a owl:Restriction ;
+            owl:onProperty lhi:do ;
+            (owl:someValuesFrom) ?trainings;
+     ] .
+  ?trainings rdfs:subClassOf* lhi:PottyTraining .  
+  ?training rdf:type ?trainings.
 }

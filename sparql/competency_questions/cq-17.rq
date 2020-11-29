@@ -1,4 +1,4 @@
-# What to feed my xx-Month-Old?
+#How does baby play ball in 15-month-old?
 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -8,12 +8,13 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
 SELECT ?value
 WHERE { 
-  	?class rdfs:subClassOf* lhi:24MonthOld .
-  	# sublclass restriciton
+  	?class rdfs:subClassOf* lhi:15MonthOld .
 	?class (rdfs:subClassOf)
-   [
-          a owl:Restriction ;
-          owl:onProperty lhi:eat ;
-         (owl:someValuesFrom|owl:hasValue) ?value;
-                       ] .
+     [
+            a owl:Restriction ;
+            owl:onProperty lhi:act ;
+           (owl:someValuesFrom|owl:hasValue) ?values;
+     ] .
+  	?values rdfs:subClassOf lhi:PlayingBall .
+  	?value rdf:type ?values
 }
