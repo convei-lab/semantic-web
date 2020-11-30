@@ -5,7 +5,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
 ASK { 
-  ?stage rdfs:subClassOf* lhi:17MonthOld .  
+  ?stage rdfs:subClassOf* lhi:6MonthOld .  
   ?stage (rdfs:subClassOf)
      [
             a owl:Restriction ;

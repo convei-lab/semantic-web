@@ -5,9 +5,8 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
 SELECT ?class WHERE { 
-  ?class rdfs:subClassOf* lhi:NutritionalSupplement .
-  # sublclass restriciton
-  ?stage rdfs:subClassOf* lhi:32MonthOld .  # TODO change this into my child
+  ?class rdfs:subClassOf* lhi:RefusingFood .
+  ?stage rdfs:subClassOf* lhi:31MonthOld .  # TODO change this into my child
   ?stage (rdfs:subClassOf)
      [
             a owl:Restriction ;

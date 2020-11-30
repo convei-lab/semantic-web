@@ -13,7 +13,7 @@ WHERE {
 	?class (rdfs:subClassOf)
      [
             a owl:Restriction ;
-            owl:onProperty lhi:eatHowMuch ;
+            owl:onProperty lhi:needMilkOunce ;
            (owl:someValuesFrom|owl:hasValue) ?value;
      ] .
 }

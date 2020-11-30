@@ -8,7 +8,7 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
 SELECT (Min($stage) AS $month_old) WHERE {
   ?activity rdfs:subClassOf* lhi:Outing .
-  ?stage rdfs:subClassOf* lhi:AgingStage .
+  ?stage rdfs:subClassOf* lhi:MonthlyStage .
   ?stage (rdfs:subClassOf)
      [
             a owl:Restriction ;

@@ -7123,6 +7123,12 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Person"/>
         <rdfs:subClassOf>
             <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#act"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#Outing"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#developeSense"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/theorist/ontologies/2020/10/root-ontology#BetterMovingAndFocusing"/>
             </owl:Restriction>
