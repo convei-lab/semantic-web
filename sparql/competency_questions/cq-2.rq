@@ -8,7 +8,7 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
 SELECT $doing 
 WHERE { 
-  	?class rdfs:subClassOf* lhi:16MonthOld .
+  	?class rdfs:subClassOf* lhi:8MonthOld .
   	# sublclass restriciton
 	?class (rdfs:subClassOf)
    [
